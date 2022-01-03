@@ -11,7 +11,7 @@ variables:
 
 
 # TBD: 
-#   test python bindings
+#   test python bindings.
 #   build documentation
 #   Asan, ubsan, msan
 # Disabled pending clang dependencies for std::unordered_map
